@@ -4,7 +4,7 @@
 title: Bugking Support Site
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: README
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -70,8 +70,8 @@ social-network-links:
   rss: true
   email: "myway0710@naver.com"
   facebook: myway0710@naver.com
-  github: https://bugkingK.github.io
-  twitter: nil
+  github: bugkingK
+  # twitter: nil
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
