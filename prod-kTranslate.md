@@ -9,10 +9,10 @@ comments: true
 ![](/img/prod-kTranslate/prod-kTranslate.003.jpeg){: .center-block :}
 ![](/img/prod-kTranslate/prod-kTranslate.004.jpeg){: .center-block :}
 
-## [다운로드 - kTranslate](/prod/kTranslate/kTranslate1.0.2.zip)
+## [다운로드 - kTranslate](/prod/kTranslate/kTranslate.zip)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141906441-5"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141906441-5"></script>Â
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
