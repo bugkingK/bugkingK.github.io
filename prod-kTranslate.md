@@ -11,8 +11,9 @@ comments: true
 
 ## [다운로드 - kTranslate](/prod/kTranslate/kTranslate.zip)
 
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141906441-5"></script>Â
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141906441-5"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
