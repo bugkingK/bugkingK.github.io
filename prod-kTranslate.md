@@ -1,17 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: 자신에 대한 만족감은 퇴보의 시작
+title: kTranslate
+comments: true
 ---
 
-### 프로필
-- 이름 : 권기문(Bugking, Moon)
-- 이메일 : myway0710@naver.com
-- 취미 : 그림그리기
-- 주 언어 : Swift, Objective-C, PHP
-- 주 IDE : Xcode, JetBrains Tools, Atom
-- 주 OS : MacOSX, Ubuntu, Window
-
+![](/img/prod-kTranslate/prod-kTranslate.001.jpeg){: .center-block :}
+![](/img/prod-kTranslate/prod-kTranslate.002.jpeg){: .center-block :}
+![](/img/prod-kTranslate/prod-kTranslate.003.jpeg){: .center-block :}
+![](/img/prod-kTranslate/prod-kTranslate.004.jpeg){: .center-block :}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141906441-5"></script>

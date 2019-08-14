@@ -20,6 +20,7 @@ description: README
 
 # List of links in the navigation bar
 navbar-links:
+  Production: "prod-kTranslate"
   About Me: "aboutme"
   Auth:
     - ProjectManager: "AuthProjectManager"
