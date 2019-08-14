@@ -4,7 +4,7 @@ title: About me
 subtitle: 자신에 대한 만족감은 퇴보의 시작
 ---
 
-![](/img/aboutme/profile.png) <br/>
+![](/img/aboutme/profile.png =320x320) <br/>
 
 ### 프로필
 - 이름 : 권기문(Bugking, Moon)
