@@ -22,13 +22,9 @@ description: README
 navbar-links:
   Production:
     - ProjectManager: "/home/prod/ProjectManager/prod-ProjectManager"
-    - Shortcutmanager: "/home/prod/ShortcutManager/prod-ShortcutManager"
+    - ShortcutManager: "/home/prod/ShortcutManager/prod-ShortcutManager"
     - kTranslate: "/home/prod/kTranslate/prod-kTranslate"
   About Me: "/home/aboutme"
-  # Auth:
-  #   - ProjectManager: "home/auth/ProjectManager"
-  #   - ShortcutManager: "home/auth/ShortcutManager"
-  #   - MobileViewer: "home/auth/MobileViewer"
   # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
