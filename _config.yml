@@ -22,7 +22,7 @@ description: README
 navbar-links:
   Production:
     - ProjectManager: "/home/prod/ProjectManager/prod-ProjectManager"
-    - Shortcutmanager: "/home/prod/Shortcutmanager/prod-Shortcutmanager"
+    - Shortcutmanager: "/home/prod/Shortcutmanager/prod-ShortcutManager"
     - kTranslate: "/home/prod/kTranslate/prod-kTranslate"
   About Me: "/home/aboutme"
   # Auth:
