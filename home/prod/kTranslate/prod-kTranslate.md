@@ -4,12 +4,12 @@ title: kTranslate
 comments: true
 ---
 
-![](/img/prod-kTranslate/prod-kTranslate.001.jpeg){: .center-block :}
-![](/img/prod-kTranslate/prod-kTranslate.002.jpeg){: .center-block :}
-![](/img/prod-kTranslate/prod-kTranslate.003.jpeg){: .center-block :}
-![](/img/prod-kTranslate/prod-kTranslate.004.jpeg){: .center-block :}
+![](/img/production/kTranslate/001.jpeg){: .center-block :}
+![](/img/production/kTranslate/002.jpeg){: .center-block :}
+![](/img/production/kTranslate/003.jpeg){: .center-block :}
+![](/img/production/kTranslate/004.jpeg){: .center-block :}
 
-## [다운로드 - kTranslate](/prod/kTranslate/kTranslate.zip)
+## [다운로드 - kTranslate](/home/prod/kTranslate/kTranslate.zip)
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
