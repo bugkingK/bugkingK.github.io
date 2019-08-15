@@ -123,13 +123,13 @@ url-pretty: "https://bugkingK.github.io"  # eg. "deanattali.com/beautiful-jekyll
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: ""
+disqus: "disqus_SeXUG0pvKd"
 
 # If you want to use JustComments fill with the API Key
 # just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
-fb_comment_id: ""
+# fb_comment_id: ""
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
