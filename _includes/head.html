@@ -123,9 +123,16 @@
   {% include matomo.html %}
   {% endif %}
 
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-8863196630881203",
+      enable_page_level_ads: true
+    });
+  </script>
+
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <!-- Staticman -->
   <link rel="stylesheet" href="{{ "/css/staticman.css" | relative_url }}" />
   {% endif %}
-
 </head>
