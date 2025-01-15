@@ -1,4 +1,4 @@
 ---
-layout: ads
-title: ads
+layout: scripter_ads
+title: scripter_ads
 ---
